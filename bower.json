@@ -1,0 +1,13 @@
+{
+  "name": "dc-wordcloud",
+  "version": "0.0.1",
+  "dependencies": {
+    "dc-addons": "0.11.4",
+    "d3": "3.5.10",
+    "d3-cloud-bower": ""
+  },
+  "private": true,
+  "resolutions": {
+    "d3": "3.x"
+  }
+}
